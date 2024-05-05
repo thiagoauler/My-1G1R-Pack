@@ -2,7 +2,6 @@
 [BIOS] 32X SH-2 Master (USA)
 [BIOS] 32X SH-2 Slave (USA)
 240p Test Suite (World) (Program) (Aftermarket) (Unl)
-32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)
 After Burner Complete (Europe)
 	After Burner Complete (Japan, USA) (En)
 Amazing Spider-Man, The - Web of Fire (USA)

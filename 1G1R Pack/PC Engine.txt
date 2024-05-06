@@ -8,8 +8,6 @@
 	[BIOS] TurboGrafx CD System Card (USA) (v2.0)
 1943 Kai (Japan)
 21 Emon - Mezase Hotel Ou!! (Japan)
-240p Test Suite (World) (v1.15) (Program) (Aftermarket) (Unl)
-	240p Test Suite (World) (v1.12) (Program) (Aftermarket) (Unl)
 Aero Blasters (USA)
 	Aero Blasters (Japan)
 After Burner II (Japan)
